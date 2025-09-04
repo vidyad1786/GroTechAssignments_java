@@ -1,5 +1,3 @@
-package module1programs;
-
 import java.util.Scanner;
 
 public class AreaOfCircle {
